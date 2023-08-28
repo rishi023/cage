@@ -1,0 +1,88 @@
+Application - Zomato
+
+--> functional requirements:
+    ---> customers
+        -> signup
+        -> signin
+        -> add or update your location
+        -> view restaurants
+        -> view offers
+        -> browse menus
+        -> add items to cart
+        -> apply coupons
+        -> checkout - pay for order
+        -> tip for an order
+        -> rate the order
+
+    ---> restaurants partner
+        -> signup
+        -> signin
+        -> create / update a restaurant
+        -> create / update categories
+        -> create/ update menu
+        -> add offer
+        -> view / update order
+
+    ---> delivery partner
+        -> signup
+        -> signin
+        -> update area
+        -> view pickups
+        -> accept order
+        -> mark the order delivery done
+
+    ----> Automation
+        -> keep looking for location of the delivery boy
+        -> assign the order to a delivery boy - automated system
+
+
+
+
+    Use case :
+
+--- USER : name, emailId, contactNumber, address, password
+--- CART : list of menu items
+--- Promocodes - promocode, discount
+--- Order - orderid, orderdate, ordervalue, items, address
+-- Tip
+-- rating
+
+
+--- Restaurant :
+    - Profile
+        - name, address, rating, profile pic
+    - Category
+    - Menu
+    - Offer
+
+Entities :
+* User
+* Restaurant
+
+
+
+API -
+
+
+
+
+
+
+
+
+Controllers
+
+
+
+
+
+
+Service
+
+
+
+
+
+
+
+Repository
