@@ -1,4 +1,4 @@
-package bdev.repository;
+package com.codingage.bdev.repository;
 
 import com.codingage.bdev.models.User;
 

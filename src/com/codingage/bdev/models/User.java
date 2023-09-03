@@ -1,4 +1,4 @@
-package bdev.models;
+package com.codingage.bdev.models;
 
 public class User {
     private String name;

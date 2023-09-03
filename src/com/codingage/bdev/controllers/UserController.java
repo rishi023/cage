@@ -1,4 +1,4 @@
-package bdev.controllers;
+package com.codingage.bdev.controllers;
 
 import com.codingage.bdev.models.User;
 import com.codingage.bdev.service.UserService;
